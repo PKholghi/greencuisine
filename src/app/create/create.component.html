@@ -1,0 +1,57 @@
+<div class="container h-100 text-dark create-body">
+  <div class="row justify-content-center align-items-center">
+    <h1 class="pt-5">Create a post</h1>    
+  </div>
+  <hr/>
+  <div class="row justify-content-center align-items-center h-100">
+    <div class="col col-sm-6 col-md-6 pt-5">
+
+      <form [formGroup]="postsRef" class="container needs-validation create-form" novalidate>
+        <div class="form-group pt-3">
+            <label for="title" class="form-label">Title</label>
+            <input type="text" class="form-control" id="title" formControlName="title" placeholder="Blog title" required>
+            <div class="valid-feedback">
+              Looks good!
+            </div>
+            <div class="invalid-feedback">
+              Please provide a valid blog title.
+            </div>
+        </div>
+    
+        <div class="form-group pt-4">
+            <label for="author" class="form-label">Author</label>
+            <input type="text" class="form-control" id="author" formControlName="author" placeholder="John Doe" required>
+            <div class="valid-feedback">
+                Looks good!
+            </div>
+            <div class="invalid-feedback">
+              Please provide a valid author name.
+            </div>
+        </div>
+    
+        <div class="form-group pt-4 pb-4">
+            <label for="desc" class="form-label">Description</label>
+            <textarea type="text" class="form-control" style="height: 20vh;" id="desc" formControlName="desc" placeholder="Write about food here!" required></textarea>
+            <div class="valid-feedback">
+              Looks good!
+            </div>
+            <div class="invalid-feedback">
+              Please prove a valid description.
+            </div>
+        </div>
+   
+        <div class="form-group">
+          <div class="container">
+            <div class="row">
+              <div class="col-6 pt-4"><button class="col-6 btn btn-primary btn-sm float-left" type="submit" [value]="buttonValue" (click)="storePosts()">Submit</button></div>
+              <div class="col-6 pt-4"><button class="col-6 btn btn-warning btn-sm float-right" type="reset" value="reset">Clear</button></div>
+            </div>
+          </div>
+        </div>
+
+      </form>
+      <br />
+    {{resultMessage}}
+    </div>
+  </div>
+</div>

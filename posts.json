@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 100,
+      "title": "Healthy Spinach and Chicken Parmesan",
+      "author": "Jaqueline",
+      "desc": "The real Chicken Parmesan, called Parmigiana, is an amazingly delicious dish with a somewhat complicated prep process that requires us to first bread, and then brown the chicken before transferring to a baking dish to cook in a lovely tomato sauce and Parmesan cheese. Now, if you have the time -- go for it! I have re-created this classic Italian recipe on more than one occasion in my own kitchen, and it's totally manageable. There really is nothing like a perfectly cooked chicken Parmesan.\n\nHowever, like we've realized, I personally need a quick and easy at-home version that I can throw together whenever my craving hits on a random weeknight. So, I have re-created this classic Italian recipe and turned it into a quick and easy one pan, weekday dinner. And guess what? It still gave me the delicious satisfaction of a chicken Parmigiana!\n\nThis easy chicken Parmesan recipe comes together quickly in just one skillet -- no muss or fuss. You get the rich and cheesy taste of chicken Parmesan without the effort, clean up, or calories. What's not to love?"
+    },
+    {
+      "id": 101,
+      "title": "What are Spring Rolls?",
+      "author": "Peter",
+      "desc": "Super healthy and easy to make Vietnamese spring rolls, or gỏi cuốn, are a traditional dish that usually contains pork, prawns, vegetables, and vermicelli wrapped up into a roll made with rice paper. There are literally thousands of variations and they’re completely adaptable and customizable. They’re served fresh with a sauce for dipping, either a mixed fish sauce or a peanut sauce. You can have them for lunch, dinner, snacks, or as appetizers.\n\nSpring rolls go by many names: gỏi cuốn (which means salad rolls) and nem cuốn (which means meat rolls), rice paper rolls, summer rolls, Vietnamese rolls, crystal rolls, soft rolls, cold rolls, and fresh rolls."
+    },
+    {
+      "id": 102,
+      "title": "Teriyaki Chicken",
+      "author": "Tony",
+      "desc": "Teriyaki is a cooking technique used in Japanese food – foods are brushed with a glaze of sake, marin, soy sauce, and sugar, then either grilled or broiled. Teriyaki means glazed and grilled – teri meaning shiny/glazed and yaki meaning grilled. In Japan, traditional teriyaki chicken isn’t as saucy as we know it in North America – it’s simply glazed chicken. Teriyaki sauce is a simple Japanese sauce made from just 4 ingredients: sake, mirin, soy, and sugar. Traditionally it’s on the thinner side, but still thick enough to glaze. Classic teriyaki sauce thickens naturally because the sugars caramelize. Teriyaki sauce is incredibly easy to make at home and once you make it once, you’ll never get store bough teriyaki sauce again. You can use it with stir fries and for chicken teriyaki, of course."
+    },
+    {
+      "id": 103,
+      "title": "Chicken Alfredo",
+      "author": "Sarah",
+      "desc": "Add chopped up chicken, penne (or pasta of choice), chicken stock, and garlic powder to the insert of the instant pot. Stir well to combine then cook on high pressure for 5 minutes.\nWhile the instant pot is doing its thing, whisk together some cream with a tiny bit of cornstarch in a small bowl. Take this time to finely grate the parmesan cheese.\nWhen the instant pot is done, quick release the pressure, then carefully open the lid. Turn the pot on sauté medium and stir in the cream-cornstarch mix as well and butter. Simmer, stirring occasionally, until slightly thickened, then stir in the parm until it melts and all the noodles are coated and creamy. Taste, season, spoon into a bowl and enjoy!"
+    }
+  ],
+  "contact": []
+}

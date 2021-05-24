@@ -1,0 +1,23 @@
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 150px;
+}
+
+.socials-outer {
+  justify-content: center;
+}
+
+.socials {
+  text-align: center;
+  max-width: 8vw;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
